@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Polat\OneDrive\Masaüstü\works\Invantory\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-11T13:38:02.5056870Z;True|2024-10-07T15:59:39.7058870+03:00;True|2024-10-07T12:51:02.4039717+03:00;True|2024-10-07T10:54:48.9817348+03:00;True|2024-10-06T22:41:30.4011041+03:00;True|2024-10-06T22:38:33.8343677+03:00;True|2024-10-06T22:28:27.2342561+03:00;True|2024-10-06T22:16:34.9757720+03:00;True|2024-10-06T22:15:47.8331247+03:00;True|2024-10-06T22:11:14.3602020+03:00;True|2024-10-06T22:10:38.5703157+03:00;True|2024-10-06T22:10:24.7583411+03:00;True|2024-10-06T22:10:18.6941946+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
