@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Hata";
+}
+
+<div class="alert alert-danger" role="alert">
+    <h4 class="alert-heading">Error!</h4>
+    <p>@ViewBag.ErrorMessage</p>
+    <hr>
+    <p class="mb-0">Please check the search term or try searching for another product.</p>
+    <a href="/Home/Index" class="btn btn-primary">Return to Home Page</a>
+</div>
